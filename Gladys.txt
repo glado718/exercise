@@ -1,0 +1,2 @@
+echo "Hey let's have fun"
+echo "my first github exrcise"
