@@ -1,2 +1,6 @@
 echo "Hello world!"
+<<<<<<< HEAD
+echo "added a  newline"
+=======
 echo "added a second line"
+>>>>>>> new_branch
